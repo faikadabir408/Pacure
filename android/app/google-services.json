@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694433755563",
+    "project_id": "pacure-app",
+    "storage_bucket": "pacure-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694433755563:android:c9e4698830db426e6122ee",
+        "android_client_info": {
+          "package_name": "com.example.delivery_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694433755563-88eoq6qaordi1ptk61pt0ikkt00airvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNCaRgBS9OOwRodkPUXi_VsYeGtSywG5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694433755563-88eoq6qaordi1ptk61pt0ikkt00airvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
